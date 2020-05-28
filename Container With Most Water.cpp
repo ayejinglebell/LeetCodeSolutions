@@ -7,7 +7,7 @@ public:
         
         while(l<r){
             
-            max_area = std::max(max_area,(std::min(height[l],height[r]))*(r-l));
+            max_area = std::max(max_area,(std::min(height[l],height[r]))*(r-l)); 
             
             if(height[l]<height[r])
                 l++;
