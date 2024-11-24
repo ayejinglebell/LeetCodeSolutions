@@ -1,6 +1,3 @@
 # LeetCodeSolutions
-## These are LeetCode Solution in C++
-I will be mentioning the time complexity for each code.
-Feel free to pull if you have edits to make the solutions easier.
-
+The market is bad I thought leaving my job was a good idea so here we are.
 Please hire me 😔
