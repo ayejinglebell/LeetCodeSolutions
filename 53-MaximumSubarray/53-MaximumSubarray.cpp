@@ -6,6 +6,7 @@ public:
 
         for(int i = 1; i < nums.size(); i++)
         {
+            //Kadane's algorithm
             curSubarray = max(nums[i], nums[i]+curSubarray);
             maxSubarray = max(maxSubarray, curSubarray);
         }
